@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [iRobotic Co,](https://www.linkedin.com/company/irobotic/)
 
-- 🌱 I’m currently develop my skills in **SW Engineering, Design Patterns, Embedded Systems and IoT systems**
+- 🌱 I'm currently develop my skills in **SW Engineering, Design Patterns, Embedded Systems and IoT systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/7ossam7amdi](https://github.com/7ossam7amdi)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/hossamhamdi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/hossamhamdi7" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/hossamhamdi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/hossamhamdi7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
